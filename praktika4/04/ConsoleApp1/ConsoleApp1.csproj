@@ -5,8 +5,4 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Include="C:\Users\student\source\repos\moricifosatar\CS_praktika\praktika4\04\kodfighya.cs" Link="kodfighya.cs" />
-  </ItemGroup>
-
 </Project>
